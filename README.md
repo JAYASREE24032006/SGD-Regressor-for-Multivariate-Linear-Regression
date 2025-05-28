@@ -1,4 +1,6 @@
 # EX-4 : IMPLEMENTATION OF MULTIVARIATE LINEAR REGRESSION MODEL USING SGD
+### Name : R.Jayasree
+### R.No : 212223040074
 
 ## AIM:
 To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
